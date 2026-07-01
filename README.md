@@ -88,6 +88,6 @@ This design is appropriate for compliance-focused tools because it avoids halluc
 ## Working Prototype Deployment Link
 
 Local prototype deployment:
-- http://localhost:8502
+- (https://sensitive-data-detection-compliance-assistant-8m56brqdhzutgflg.streamlit.app/)
 
 This is the current working local prototype for the assignment demo.
