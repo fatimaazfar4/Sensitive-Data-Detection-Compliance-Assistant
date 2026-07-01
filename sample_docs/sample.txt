@@ -1,0 +1,25 @@
+CONFIDENTIAL - INTERNAL USE ONLY
+Project Alpha - Employee Onboarding Record
+
+Employee ID: EMP10234
+Name: Ananya Sharma
+Email: ananya.sharma@example.com
+Phone: 9876543210
+Aadhaar Number: 2345 6789 1023
+PAN Number: ABCDE1234F
+
+Bank Details:
+Account Number: 123456789012
+IFSC Code: HDFC0001234
+
+System Access:
+api_key: sample_api_key_placeholder
+password: sample_password_placeholder
+
+Notes:
+This document contains proprietary and confidential compensation details and
+must not be distributed outside the HR department. Trade secret information
+regarding Project Alpha's Q3 roadmap is also referenced below.
+
+Emergency contact: 9123456780
+Backup email: ananya.backup@example.org
